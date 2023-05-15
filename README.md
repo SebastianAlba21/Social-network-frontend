@@ -19,10 +19,10 @@ Rutas
 
 ## Instalación
 
-1- Clonar este repositorio.
-2- Abrir una terminal y navegar al directorio raíz del proyecto.
-3- Ejecutar el comando npm install para instalar las dependencias.
-4- Ejecutar el comando npm start para iniciar la aplicación.
+1. Clonar este repositorio.
+2. Abrir una terminal y navegar al directorio raíz del proyecto.
+3. Ejecutar el comando npm install para instalar las dependencias.
+4. Ejecutar el comando npm start para iniciar la aplicación.
 
 ## Contribuciones
 
